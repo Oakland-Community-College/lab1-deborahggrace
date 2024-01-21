@@ -1,1 +1,5 @@
-# Testing the commit from the web
+print('My partner\'s name is Deborah Grace.')
+print('Her pronouns are she/her.')
+print('She is taking this class because she is studying cyber security.')
+print('Outside of class, she plays games, studies everything, travels, hikes, and reads.')
+print('In the past 10 years, Deborah has taken one million photos.')
